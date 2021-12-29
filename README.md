@@ -8,7 +8,7 @@ Main source is here [main source](https://github.com/sandy1709/catuserbot) fork 
 
 fork this repo and [main repo](https://github.com/abrock00/catuserbot) and click on deploy
 
-<a href="https://heroku.com/deploy?template=https://github.com/gtberno/catuserbot/">
+<a href="https://heroku.com/deploy?template=https://github.com/GTBERNO/nekopack/">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 
 ## credits
